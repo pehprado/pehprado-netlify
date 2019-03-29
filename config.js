@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://pehprado.netlify.com',
+  title: 'pehprado Blog',
+  subtitle: 'Desenvolvedor Backend na SELIA Full Commerce.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,14 +23,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Pedro Prado',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Desenvolvedor Backend na SELIA Full Commerce.',
     contacts: {
       email: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'peh13',
+      github: 'pehprado',
       rss: '#',
       vkontakte: '#'
     }
